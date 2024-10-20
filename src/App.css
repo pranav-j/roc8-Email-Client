@@ -1,0 +1,28 @@
+#root {
+  margin: 0 auto;
+  padding: 0px 36px;
+}
+
+body {
+  margin: 0;
+}
+
+.main-body {
+  display: flex;
+  gap: 20px;
+  width: 100%;
+  padding-bottom: 36px;
+}
+
+.email-list {
+  flex: 1;
+}
+
+.email-view {
+  flex: 0 0 60%;
+  display: none;
+}
+
+.email-view.active {
+  display: block;
+}
