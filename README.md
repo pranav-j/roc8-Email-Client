@@ -32,5 +32,17 @@ This is a React-based email application that fetches, displays, and manages emai
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/email-application.git
+   git clone https://github.com/pranav-j/roc8-Email-Client.git
    cd email-application
+
+
+2. **Install the dependencies**:
+   ```bash
+   npm install
+
+
+2. **Start the application**:
+   ```bash
+   npm start
+
+
